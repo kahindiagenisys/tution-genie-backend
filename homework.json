@@ -1,0 +1,148 @@
+{
+    "homeworks": [
+        {
+            "date": "2024-03-01T00:00:00.000",
+            "subject": "Mathematics",
+            "description": "Complete the algebra worksheet.",
+            "attachments": [
+                {
+                    "name": "Worksheet PDF",
+                    "media": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                }
+            ],
+            "dueDate": "2024-04-03T00:00:00.000"
+        },
+        {
+            "date": "2025-01-02T00:00:00.000",
+            "subject": "Science",
+            "description": "Read chapter on Photosynthesis.",
+            "attachments": [],
+            "dueDate": "2025-03-03T00:00:00.000"
+        },
+        {
+            "date": "2025-02-03T00:00:00.000",
+            "subject": "English",
+            "description": "Write an essay on Environmental Pollution.",
+            "attachments": [],
+            "dueDate": "2025-03-05T00:00:00.000"
+        },
+        {
+            "date": "2025-02-04T00:00:00.000",
+            "subject": "History",
+            "description": "Prepare notes on World War II.",
+            "attachments": [
+                {
+                    "name": "Reference Book",
+                    "media": "https://www.orimi.com/pdf-test.pdf"
+                }
+            ],
+            "dueDate": "2025-03-06T00:00:00.000"
+        },
+        {
+            "date": "2025-02-05T00:00:00.000",
+            "subject": "Computer Science",
+            "description": "Complete coding exercise on Dart functions.",
+            "attachments": [
+                {
+                    "name": "Code Template",
+                    "media": "https://picsum.photos/200/300"
+                }
+            ],
+            "dueDate": "2025-03-07T00:00:00.000"
+        },
+        {
+            "date": "2025-03-06T00:00:00.000",
+            "subject": "Geography",
+            "description": "Map practice: Draw rivers of India.",
+            "attachments": [],
+            "dueDate": "2025-03-07T00:00:00.000"
+        },
+        {
+            "date": "2025-03-07T00:00:00.000",
+            "subject": "Physics",
+            "description": "Solve problems on Newton's Laws.",
+            "attachments": [],
+            "dueDate": "2025-03-09T00:00:00.000"
+        },
+        {
+            "date": "2025-03-08T00:00:00.000",
+            "subject": "Chemistry",
+            "description": "Learn periodic table elements.",
+            "attachments": [
+                {
+                    "name": "Periodic Table Chart",
+                    "media": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                }
+            ],
+            "dueDate": "2025-03-10T00:00:00.000"
+        },
+        {
+            "date": "2025-03-09T00:00:00.000",
+            "subject": "Biology",
+            "description": "Label human anatomy diagram.",
+            "attachments": [],
+            "dueDate": "2025-03-10T00:00:00.000"
+        },
+        {
+            "date": "2025-03-10T00:00:00.000",
+            "subject": "Physical Education",
+            "description": "Prepare a fitness routine chart.",
+            "attachments": [],
+            "dueDate": "2025-03-12T00:00:00.000"
+        },
+        {
+            "date": "2025-03-11T00:00:00.000",
+            "subject": "Economics",
+            "description": "Write a note on Demand and Supply.",
+            "attachments": [
+                {
+                    "name": "Economics PDF",
+                    "media": "https://www.orimi.com/pdf-test.pdf"
+                }
+            ],
+            "dueDate": "2025-03-13T00:00:00.000"
+        },
+        {
+            "date": "2025-03-12T00:00:00.000",
+            "subject": "Political Science",
+            "description": "Read about the Indian Constitution.",
+            "attachments": [
+                {
+                    "name": "Political image",
+                    "media": "https://picsum.photos/200/300"
+                },
+                {
+                    "name": "Political paper",
+                    "media": "https://picsum.photos/200/300"
+                }
+            ],
+            "dueDate": "2025-03-13T00:00:00.000"
+        },
+        {
+            "date": "2025-03-13T00:00:00.000",
+            "subject": "Art",
+            "description": "Sketch a landscape drawing.",
+            "attachments": [],
+            "dueDate": "2025-03-15T00:00:00.000"
+        },
+        {
+            "date": "2025-03-14T00:00:00.000",
+            "subject": "Music",
+            "description": "Practice the new song lyrics.",
+            "attachments": [
+                {
+                    "name": "Lyrics PDF",
+                    "media": "https://picsum.photos/200/300"
+                }
+            ],
+            "dueDate": "2025-03-16T00:00:00.000"
+        },
+        {
+            "date": "2025-03-15T00:00:00.000",
+            "subject": "Environmental Studies",
+            "description": "Make a poster on Save Water.",
+            "attachments": [],
+            "dueDate": "2025-03-16T00:00:00.000"
+        }
+    ]
+}
