@@ -1,0 +1,231 @@
+{
+    "exams":[
+
+        {
+            "name": "Math Test",
+            "description": "Basic algebra test",
+            "date": "2025-08-25T07:40:12.558871Z",
+            "totalMarks": 50,
+            "attachments": []
+        },
+        {
+            "name": "Math Test",
+            "description": "Basic algebra test",
+            "date": "2026-01-01T07:40:12.558871Z",
+            "totalMarks": 50,
+            "attachments": [
+                {
+                    "media": "https://picsum.photos/200/300",
+                    "name": "Exam Attachment 9"
+                },
+                {
+                    "media": "https://picsum.photos/200/300",
+                    "name": "Exam Attachment 63"
+                }
+            ]
+        },
+        {
+            "name": "Math Test",
+            "description": "Basic algebra test",
+            "date": "2025-09-22T07:40:12.558871Z",
+            "totalMarks": 50,
+            "attachments": []
+        },
+        {
+            "name": "Math Test",
+            "description": "Basic algebra test",
+            "date": "2026-03-13T07:40:12.558871Z",
+            "totalMarks": 50,
+            "attachments": []
+        },
+        {
+            "name": "Math Test",
+            "description": "Basic algebra test",
+            "date": "2025-11-13T07:40:12.558871Z",
+            "totalMarks": 50,
+            "attachments": []
+        },
+        {
+            "name": "Math Test",
+            "description": "Basic algebra test",
+            "date": "2025-04-26T07:40:12.558871Z",
+            "totalMarks": 50,
+            "attachments": []
+        },
+        {
+            "name": "Math Test",
+            "description": "Basic algebra test",
+            "date": "2025-11-22T07:40:12.558871Z",
+            "totalMarks": 50,
+            "attachments": []
+        },
+        {
+            "name": "Math Test",
+            "description": "Basic algebra test",
+            "date": "2025-11-03T07:40:12.558871Z",
+            "totalMarks": 50,
+            "attachments": [
+                {
+                    "media": "https://picsum.photos/200/300",
+                    "name": "Exam Attachment 85"
+                }
+            ]
+        },
+        {
+            "name": "Math Test",
+            "description": "Basic algebra test",
+            "date": "2025-08-01T07:40:12.558871Z",
+            "totalMarks": 50,
+            "attachments": [
+                {
+                    "media": "https://picsum.photos/200/300",
+                    "name": "Exam Attachment 47"
+                },
+                {
+                    "media": "https://picsum.photos/200/300",
+                    "name": "Exam Attachment 3"
+                },
+                {
+                    "media": "https://picsum.photos/200/300",
+                    "name": "Exam Attachment 96"
+                }
+            ]
+        },
+        {
+            "name": "Math Test",
+            "description": "Basic algebra test",
+            "date": "2026-03-10T07:40:12.558871Z",
+            "totalMarks": 50,
+            "attachments": []
+        },
+        {
+            "name": "Math Test",
+            "description": "Basic algebra test",
+            "date": "2025-11-19T07:40:12.558871Z",
+            "totalMarks": 50,
+            "attachments": [
+                {
+                    "media": "https://picsum.photos/200/300",
+                    "name": "Exam Attachment 64"
+                },
+                {
+                    "media": "https://picsum.photos/200/300",
+                    "name": "Exam Attachment 26"
+                }
+            ]
+        },
+        {
+            "name": "Math Test",
+            "description": "Basic algebra test",
+            "date": "2025-12-29T07:40:12.558871Z",
+            "totalMarks": 50,
+            "attachments": [
+                {
+                    "media": "https://picsum.photos/200/300",
+                    "name": "Exam Attachment 53"
+                },
+                {
+                    "media": "https://picsum.photos/200/300",
+                    "name": "Exam Attachment 40"
+                }
+            ]
+        },
+        {
+            "name": "Math Test",
+            "description": "Basic algebra test",
+            "date": "2025-04-03T07:40:12.558871Z",
+            "totalMarks": 50,
+            "attachments": [
+                {
+                    "media": "https://picsum.photos/200/300",
+                    "name": "Exam Attachment 54"
+                },
+                {
+                    "media": "https://picsum.photos/200/300",
+                    "name": "Exam Attachment 74"
+                }
+            ]
+        },
+        {
+            "name": "Math Test",
+            "description": "Basic algebra test",
+            "date": "2025-05-15T07:40:12.558871Z",
+            "totalMarks": 50,
+            "attachments": []
+        },
+        {
+            "name": "Math Test",
+            "description": "Basic algebra test",
+            "date": "2026-01-09T07:40:12.558871Z",
+            "totalMarks": 50,
+            "attachments": []
+        },
+        {
+            "name": "Math Test",
+            "description": "Basic algebra test",
+            "date": "2025-03-23T07:40:12.558871Z",
+            "totalMarks": 50,
+            "attachments": []
+        },
+        {
+            "name": "Math Test",
+            "description": "Basic algebra test",
+            "date": "2025-05-02T07:40:12.558871Z",
+            "totalMarks": 50,
+            "attachments": []
+        },
+        {
+            "name": "Math Test",
+            "description": "Basic algebra test",
+            "date": "2025-12-31T07:40:12.558871Z",
+            "totalMarks": 50,
+            "attachments": [
+                {
+                    "media": "https://picsum.photos/200/300",
+                    "name": "Exam Attachment 77"
+                },
+                {
+                    "media": "https://picsum.photos/200/300",
+                    "name": "Exam Attachment 78"
+                },
+                {
+                    "media": "https://picsum.photos/200/300",
+                    "name": "Exam Attachment 88"
+                }
+            ]
+        },
+        {
+            "name": "Math Test",
+            "description": "Basic algebra test",
+            "date": "2025-11-17T07:40:12.558871Z",
+            "totalMarks": 50,
+            "attachments": [
+                {
+                    "media": "https://picsum.photos/200/300",
+                    "name": "Exam Attachment 76"
+                }
+            ]
+        },
+        {
+            "name": "Math Test",
+            "description": "Basic algebra test",
+            "date": "2025-09-22T07:40:12.558871Z",
+            "totalMarks": 50,
+            "attachments": [
+                {
+                    "media": "https://picsum.photos/200/300",
+                    "name": "Exam Attachment 65"
+                },
+                {
+                    "media": "https://picsum.photos/200/300",
+                    "name": "Exam Attachment 20"
+                },
+                {
+                    "media": "https://picsum.photos/200/300",
+                    "name": "Exam Attachment 91"
+                }
+            ]
+        }
+    
+    ]
+}
