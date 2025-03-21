@@ -1,5 +1,5 @@
 {
-    "exams":[
+    "exams": [
         {
             "name": "Subject 1",
             "description": "Description for Subject 1",
@@ -262,6 +262,6 @@
                 "attachments": [],
                 "remark": "Needs Improvement"
             }
-        },
+        }
     ]
 }

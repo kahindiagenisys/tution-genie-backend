@@ -1,0 +1,237 @@
+{
+    "homeworks":
+
+[
+    {
+        "date": "2025-03-01T00:00:00",
+        "subject": "Biology",
+        "description": "Practice the grammar exercises.",
+        "attachments": [
+            {
+                "name": "Physics image",
+                "media": "https://picsum.photos/200/300"
+            },
+            {
+                "name": "Physics paper",
+                "media": "https://picsum.photos/200/300"
+            }
+        ],
+        "dueDate": "2025-03-03T00:00:00"
+    },
+    {
+        "date": "2025-03-02T00:00:00",
+        "subject": "Physics",
+        "description": "Complete the exercise questions.",
+        "attachments": [],
+        "dueDate": "2025-03-04T00:00:00"
+    },
+    {
+        "date": "2025-03-03T00:00:00",
+        "subject": "English",
+        "description": "Study the chapters thoroughly.",
+        "attachments": [],
+        "dueDate": "2025-03-04T00:00:00"
+    },
+    {
+        "date": "2025-03-04T00:00:00",
+        "subject": "Geography",
+        "description": "Revise the notes provided in class.",
+        "attachments": [
+            {
+                "name": "Geography image",
+                "media": "https://picsum.photos/200/300"
+            },
+            {
+                "name": "History paper",
+                "media": "https://picsum.photos/200/300"
+            }
+        ],
+        "dueDate": "2025-03-08T00:00:00"
+    },
+    {
+        "date": "2025-03-05T00:00:00",
+        "subject": "Mathematics",
+        "description": "Understand the chemical reactions.",
+        "attachments": [
+            {
+                "name": "Chemistry image",
+                "media": "https://picsum.photos/200/300"
+            },
+            {
+                "name": "Political Science paper",
+                "media": "https://picsum.photos/200/300"
+            }
+        ],
+        "dueDate": "2025-03-07T00:00:00"
+    },
+    {
+        "date": "2025-03-06T00:00:00",
+        "subject": "Mathematics",
+        "description": "Revise the notes provided in class.",
+        "attachments": [
+            {
+                "name": "Hindi image",
+                "media": "https://picsum.photos/200/300"
+            },
+            {
+                "name": "English paper",
+                "media": "https://picsum.photos/200/300"
+            }
+        ],
+        "dueDate": "2025-03-07T00:00:00"
+    },
+    {
+        "date": "2025-03-07T00:00:00",
+        "subject": "Political Science",
+        "description": "Read about the Indian Constitution.",
+        "attachments": [],
+        "dueDate": "2025-03-11T00:00:00"
+    },
+    {
+        "date": "2025-03-08T00:00:00",
+        "subject": "Political Science",
+        "description": "Understand the chemical reactions.",
+        "attachments": [],
+        "dueDate": "2025-03-10T00:00:00"
+    },
+    {
+        "date": "2025-03-09T00:00:00",
+        "subject": "English",
+        "description": "Practice the grammar exercises.",
+        "attachments": [],
+        "dueDate": "2025-03-10T00:00:00"
+    },
+    {
+        "date": "2025-03-10T00:00:00",
+        "subject": "Political Science",
+        "description": "Revise the notes provided in class.",
+        "attachments": [
+            {
+                "name": "History image",
+                "media": "https://picsum.photos/200/300"
+            },
+            {
+                "name": "History paper",
+                "media": "https://picsum.photos/200/300"
+            }
+        ],
+        "dueDate": "2025-03-15T00:00:00"
+    },
+    {
+        "date": "2025-03-11T00:00:00",
+        "subject": "Geography",
+        "description": "Understand the chemical reactions.",
+        "attachments": [
+            {
+                "name": "Physics image",
+                "media": "https://picsum.photos/200/300"
+            },
+            {
+                "name": "Hindi paper",
+                "media": "https://picsum.photos/200/300"
+            }
+        ],
+        "dueDate": "2025-03-16T00:00:00"
+    },
+    {
+        "date": "2025-03-12T00:00:00",
+        "subject": "Hindi",
+        "description": "Practice the grammar exercises.",
+        "attachments": [
+            {
+                "name": "Economics image",
+                "media": "https://picsum.photos/200/300"
+            },
+            {
+                "name": "Political Science paper",
+                "media": "https://picsum.photos/200/300"
+            }
+        ],
+        "dueDate": "2025-03-15T00:00:00"
+    },
+    {
+        "date": "2025-03-13T00:00:00",
+        "subject": "Chemistry",
+        "description": "Revise the notes provided in class.",
+        "attachments": [],
+        "dueDate": "2025-03-17T00:00:00"
+    },
+    {
+        "date": "2025-03-14T00:00:00",
+        "subject": "Physics",
+        "description": "Understand the chemical reactions.",
+        "attachments": [],
+        "dueDate": "2025-03-16T00:00:00"
+    },
+    {
+        "date": "2025-03-15T00:00:00",
+        "subject": "Hindi",
+        "description": "Read about the Indian Constitution.",
+        "attachments": [],
+        "dueDate": "2025-03-17T00:00:00"
+    },
+    {
+        "date": "2025-03-16T00:00:00",
+        "subject": "Political Science",
+        "description": "Read about the Indian Constitution.",
+        "attachments": [],
+        "dueDate": "2025-03-18T00:00:00"
+    },
+    {
+        "date": "2025-03-17T00:00:00",
+        "subject": "Physics",
+        "description": "Revise the notes provided in class.",
+        "attachments": [],
+        "dueDate": "2025-03-22T00:00:00"
+    },
+    {
+        "date": "2025-03-18T00:00:00",
+        "subject": "Mathematics",
+        "description": "Understand the chemical reactions.",
+        "attachments": [
+            {
+                "name": "Physics image",
+                "media": "https://picsum.photos/200/300"
+            },
+            {
+                "name": "Hindi paper",
+                "media": "https://picsum.photos/200/300"
+            }
+        ],
+        "dueDate": "2025-03-19T00:00:00"
+    },
+    {
+        "date": "2025-03-19T00:00:00",
+        "subject": "Mathematics",
+        "description": "Memorize important historical dates.",
+        "attachments": [
+            {
+                "name": "Biology image",
+                "media": "https://picsum.photos/200/300"
+            },
+            {
+                "name": "English paper",
+                "media": "https://picsum.photos/200/300"
+            }
+        ],
+        "dueDate": "2025-03-24T00:00:00"
+    },
+    {
+        "date": "2025-03-20T00:00:00",
+        "subject": "Physics",
+        "description": "Practice the grammar exercises.",
+        "attachments": [
+            {
+                "name": "English image",
+                "media": "https://picsum.photos/200/300"
+            },
+            {
+                "name": "Chemistry paper",
+                "media": "https://picsum.photos/200/300"
+            }
+        ],
+        "dueDate": "2025-03-23T00:00:00"
+    }
+]
+
+}

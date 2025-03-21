@@ -1,0 +1,179 @@
+{
+    "homeworks":[
+        {
+            "date": "2025-03-14T00:00:00.000",
+            "subject": "Chemistry",
+            "description": "Complete the exercises at the end of the chapter.",
+            "attachments": [],
+            "dueDate": "2025-03-19T00:00:00.000"
+        },
+        {
+            "date": "2025-03-17T00:00:00.000",
+            "subject": "Political Science",
+            "description": "Write an essay on the given topic.",
+            "attachments": [
+                {
+                    "name": "Reference Image",
+                    "media": "https://picsum.photos/200/300"
+                }
+            ],
+            "dueDate": "2025-03-19T00:00:00.000"
+        },
+        {
+            "date": "2025-03-18T00:00:00.000",
+            "subject": "Economics",
+            "description": "Prepare flashcards for important terms.",
+            "attachments": [],
+            "dueDate": "2025-03-19T00:00:00.000"
+        },
+        {
+            "date": "2025-03-23T00:00:00.000",
+            "subject": "Science",
+            "description": "Read about the Indian Constitution.",
+            "attachments": [],
+            "dueDate": "2025-03-28T00:00:00.000"
+        },
+        {
+            "date": "2025-03-26T00:00:00.000",
+            "subject": "Chemistry",
+            "description": "Prepare for the upcoming test.",
+            "attachments": [
+                {
+                    "name": "Reference Image",
+                    "media": "https://picsum.photos/200/300"
+                }
+            ],
+            "dueDate": "2025-03-31T00:00:00.000"
+        },
+        {
+            "date": "2025-03-27T00:00:00.000",
+            "subject": "Political Science",
+            "description": "Read the chapter and summarize it.",
+            "attachments": [
+                {
+                    "name": "Exercise Solution",
+                    "media": "https://picsum.photos/200/300"
+                }
+            ],
+            "dueDate": "2025-03-31T00:00:00.000"
+        },
+        {
+            "date": "2025-03-19T00:00:00.000",
+            "subject": "Economics",
+            "description": "Read about the Indian Constitution.",
+            "attachments": [],
+            "dueDate": "2025-03-20T00:00:00.000"
+        },
+        {
+            "date": "2025-03-21T00:00:00.000",
+            "subject": "Political Science",
+            "description": "Revise the key concepts thoroughly.",
+            "attachments": [],
+            "dueDate": "2025-03-24T00:00:00.000"
+        },
+        {
+            "date": "2025-03-23T00:00:00.000",
+            "subject": "Physics",
+            "description": "Complete the exercises at the end of the chapter.",
+            "attachments": [],
+            "dueDate": "2025-03-26T00:00:00.000"
+        },
+        {
+            "date": "2025-03-12T00:00:00.000",
+            "subject": "Political Science",
+            "description": "Read about the Indian Constitution.",
+            "attachments": [],
+            "dueDate": "2025-03-15T00:00:00.000"
+        },
+        {
+            "date": "2025-03-17T00:00:00.000",
+            "subject": "Physics",
+            "description": "Complete the exercises at the end of the chapter.",
+            "attachments": [],
+            "dueDate": "2025-03-22T00:00:00.000"
+        },
+        {
+            "date": "2025-03-18T00:00:00.000",
+            "subject": "Biology",
+            "description": "Revise the key concepts thoroughly.",
+            "attachments": [
+                {
+                    "name": "Answer Key",
+                    "media": "https://picsum.photos/200/300"
+                }
+            ],
+            "dueDate": "2025-03-19T00:00:00.000"
+        },
+        {
+            "date": "2025-03-17T00:00:00.000",
+            "subject": "Political Science",
+            "description": "Prepare flashcards for important terms.",
+            "attachments": [],
+            "dueDate": "2025-03-21T00:00:00.000"
+        },
+        {
+            "date": "2025-03-19T00:00:00.000",
+            "subject": "Science",
+            "description": "Read the chapter and summarize it.",
+            "attachments": [
+                {
+                    "name": "Exercise Solution",
+                    "media": "https://picsum.photos/200/300"
+                }
+            ],
+            "dueDate": "2025-03-23T00:00:00.000"
+        },
+        {
+            "date": "2025-03-15T00:00:00.000",
+            "subject": "Mathematics",
+            "description": "Watch the recommended video and take notes.",
+            "attachments": [],
+            "dueDate": "2025-03-17T00:00:00.000"
+        },
+        {
+            "date": "2025-03-12T00:00:00.000",
+            "subject": "Science",
+            "description": "Prepare for the upcoming test.",
+            "attachments": [
+                {
+                    "name": "Reference Image",
+                    "media": "https://picsum.photos/200/300"
+                }
+            ],
+            "dueDate": "2025-03-16T00:00:00.000"
+        },
+        {
+            "date": "2025-03-11T00:00:00.000",
+            "subject": "Geography",
+            "description": "Solve the practice questions.",
+            "attachments": [],
+            "dueDate": "2025-03-15T00:00:00.000"
+        },
+        {
+            "date": "2025-03-12T00:00:00.000",
+            "subject": "Physics",
+            "description": "Watch the recommended video and take notes.",
+            "attachments": [],
+            "dueDate": "2025-03-13T00:00:00.000"
+        },
+        {
+            "date": "2025-03-10T00:00:00.000",
+            "subject": "Economics",
+            "description": "Write an essay on the given topic.",
+            "attachments": [],
+            "dueDate": "2025-03-15T00:00:00.000"
+        },
+        {
+            "date": "2025-03-28T00:00:00.000",
+            "subject": "Biology",
+            "description": "Complete the exercises at the end of the chapter.",
+            "attachments": [
+                {
+                    "name": "Practice Paper",
+                    "media": "https://picsum.photos/200/300"
+                }
+            ],
+            "dueDate": "2025-04-01T00:00:00.000"
+        }
+    ]
+}
