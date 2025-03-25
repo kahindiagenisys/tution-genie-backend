@@ -1,0 +1,52 @@
+{
+  "timetable": [
+    {
+      "date": "2025-03-25T00:00:00Z",
+      "day": "Tuesday",
+      "subject": "Biology",
+      "faculty": "Dr. Nair",
+      "from_time": "09:00 AM",
+      "to_time": "10:00 AM"
+    },
+    {
+      "date": "2025-03-25T00:00:00Z",
+      "day": "Tuesday",
+      "subject": "Political Science",
+      "faculty": "Ms. Reddy",
+      "from_time": "10:15 AM",
+      "to_time": "11:15 AM"
+    },
+    {
+      "date": "2025-03-25T00:00:00Z",
+      "day": "Tuesday",
+      "subject": "Geography",
+      "faculty": "Mr. Das",
+      "from_time": "11:30 AM",
+      "to_time": "12:30 PM"
+    },
+    {
+      "date": "2025-03-25T00:00:00Z",
+      "day": "Tuesday",
+      "subject": "Economics",
+      "faculty": "Mr. Mehta",
+      "from_time": "01:00 PM",
+      "to_time": "02:00 PM"
+    },
+    {
+      "date": "2025-03-25T00:00:00Z",
+      "day": "Tuesday",
+      "subject": "Sociology",
+      "faculty": "Ms. Chatterjee",
+      "from_time": "02:15 PM",
+      "to_time": "03:15 PM"
+    },
+    {
+      "date": "2025-03-25T00:00:00Z",
+      "day": "Tuesday",
+      "subject": "Music",
+      "faculty": "Ms. Fernandes",
+      "from_time": "03:30 PM",
+      "to_time": "04:30 PM"
+    }
+  ]
+}

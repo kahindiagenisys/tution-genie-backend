@@ -1,0 +1,53 @@
+{
+    "timetable": [
+      {
+        "date": "2025-03-24T00:00:00Z",
+        "day": "Monday",
+        "subject": "Mathematics",
+        "faculty": "Mr. Sharma",
+        "from_time": "09:00 AM",
+        "to_time": "10:00 AM"
+      },
+      {
+        "date": "2025-03-24T00:00:00Z",
+        "day": "Monday",
+        "subject": "English",
+        "faculty": "Ms. Patel",
+        "from_time": "10:15 AM",
+        "to_time": "11:15 AM"
+      },
+      {
+        "date": "2025-03-24T00:00:00Z",
+        "day": "Monday",
+        "subject": "Physics",
+        "faculty": "Dr. Verma",
+        "from_time": "11:30 AM",
+        "to_time": "12:30 PM"
+      },
+      {
+        "date": "2025-03-24T00:00:00Z",
+        "day": "Monday",
+        "subject": "Chemistry",
+        "faculty": "Mr. Khan",
+        "from_time": "01:00 PM",
+        "to_time": "02:00 PM"
+      },
+      {
+        "date": "2025-03-24T00:00:00Z",
+        "day": "Monday",
+        "subject": "History",
+        "faculty": "Ms. D'Souza",
+        "from_time": "02:15 PM",
+        "to_time": "03:15 PM"
+      },
+      {
+        "date": "2025-03-24T00:00:00Z",
+        "day": "Monday",
+        "subject": "Computer Science",
+        "faculty": "Ms. Gupta",
+        "from_time": "03:30 PM",
+        "to_time": "04:30 PM"
+      }
+    ]
+  }
+  
