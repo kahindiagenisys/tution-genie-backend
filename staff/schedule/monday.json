@@ -1,7 +1,6 @@
 {
   "schedules": [
     {
-      "date": "2025-03-24T00:00:00Z",
       "day": "Monday",
       "subject": "Mathematics",
       "classRoom": "9 - A",
@@ -9,16 +8,14 @@
       "to_time": "10:00 AM"
     },
     {
-      "date": "2025-03-24T00:00:00Z",
       "day": "Monday",
       "subject": "English",
       "classRoom": "9 - B",
       "from_time": "10:15 AM",
       "to_time": "11:15 AM"
     },
-    
+
     {
-      "date": "2025-03-24T00:00:00Z",
       "day": "Monday",
       "subject": "Physics",
       "classRoom": "9 - A",
@@ -26,7 +23,6 @@
       "to_time": "12:30 PM"
     },
     {
-      "date": "2025-03-24T00:00:00Z",
       "day": "Monday",
       "subject": "Chemistry",
       "classRoom": "9 - B",
@@ -34,7 +30,6 @@
       "to_time": "02:00 PM"
     },
     {
-      "date": "2025-03-24T00:00:00Z",
       "day": "Monday",
       "subject": "History",
       "classRoom": "9 - C",
@@ -42,7 +37,6 @@
       "to_time": "03:15 PM"
     },
     {
-      "date": "2025-03-24T00:00:00Z",
       "day": "Monday",
       "subject": "Computer Science",
       "classRoom": "9 - A",

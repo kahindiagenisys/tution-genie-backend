@@ -1,7 +1,6 @@
 {
     "timetable": [
       {
-        "date": "2025-03-26T00:00:00Z",
         "day": "Wednesday",
         "subject": "Mathematics",
         "faculty": "Mr. Sharma",
@@ -9,7 +8,6 @@
         "to_time": "10:00 AM"
       },
       {
-        "date": "2025-03-26T00:00:00Z",
         "day": "Wednesday",
         "subject": "Physics",
         "faculty": "Dr. Verma",
@@ -17,7 +15,6 @@
         "to_time": "11:15 AM"
       },
       {
-        "date": "2025-03-26T00:00:00Z",
         "day": "Wednesday",
         "subject": "Psychology",
         "faculty": "Dr. Iyer",
@@ -25,7 +22,6 @@
         "to_time": "12:30 PM"
       },
       {
-        "date": "2025-03-26T00:00:00Z",
         "day": "Wednesday",
         "subject": "Environmental Science",
         "faculty": "Mr. Roy",
@@ -33,7 +29,6 @@
         "to_time": "02:00 PM"
       },
       {
-        "date": "2025-03-26T00:00:00Z",
         "day": "Wednesday",
         "subject": "Dance",
         "faculty": "Mr. Lal",
@@ -41,7 +36,6 @@
         "to_time": "03:15 PM"
       },
       {
-        "date": "2025-03-26T00:00:00Z",
         "day": "Wednesday",
         "subject": "History",
         "faculty": "Ms. D'Souza",
