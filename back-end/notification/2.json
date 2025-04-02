@@ -1,0 +1,55 @@
+{
+    "notifications":[
+        {
+          "type": "Holiday",
+          "content": "Republic Day",
+          "date": "2025-01-26T00:00:00.000Z"
+        },
+        {
+          "type": "Event",
+          "content": "Yoga Session",
+          "date": "2025-02-05T07:30:00.000Z"
+        },
+        {
+          "type": "Holiday",
+          "content": "Holi Festival",
+          "date": "2025-03-18T00:00:00.000Z"
+        },
+        {
+          "type": "Event",
+          "content": "Career Counseling Workshop",
+          "date": "2025-09-10T10:00:00.000Z"
+        },
+        {
+          "type": "Holiday",
+          "content": "Gandhi Jayanti",
+          "date": "2025-10-02T00:00:00.000Z"
+        },
+        {
+          "type": "Event",
+          "content": "Alumni Meet",
+          "date": "2025-11-05T18:00:00.000Z"
+        },
+        {
+          "type": "Holiday",
+          "content": "Teacher's Day",
+          "date": "2025-09-05T00:00:00.000Z"
+        },
+        {
+          "type": "Event",
+          "content": "Music Competition",
+          "date": "2025-07-25T15:00:00.000Z"
+        },
+        {
+          "type": "Holiday",
+          "content": "Raksha Bandhan",
+          "date": "2025-08-19T00:00:00.000Z"
+        },
+        {
+          "type": "Event",
+          "content": "Environmental Awareness Drive",
+          "date": "2025-06-05T09:00:00.000Z"
+        }
+      ]
+      
+}

@@ -1,44 +1,50 @@
 {
-  "timetable": [
+  "schedules": [
     {
       "day": "Tuesday",
-      "subject": "Biology",
-      "faculty": "Dr. Nair",
+      "subject": "Mathematics",
+      "classRoom": "9 - A",
+      "faculty": "Mr. Khan",
       "from_time": "09:00 AM",
       "to_time": "10:00 AM"
     },
     {
       "day": "Tuesday",
-      "subject": "Political Science",
-      "faculty": "Ms. Reddy",
+      "subject": "Physics",
+      "classRoom": "9 - B",
+      "faculty": "Mr. Khan",
       "from_time": "10:15 AM",
       "to_time": "11:15 AM"
     },
     {
       "day": "Tuesday",
-      "subject": "Geography",
-      "faculty": "Mr. Das",
+      "subject": "Psychology",
+      "classRoom": "9 - C",
+      "faculty": "Mr. Khan",
       "from_time": "11:30 AM",
       "to_time": "12:30 PM"
     },
     {
       "day": "Tuesday",
-      "subject": "Economics",
-      "faculty": "Mr. Mehta",
+      "subject": "Environmental Science",
+      "classRoom": "9 - A",
+      "faculty": "Mr. Khan",
       "from_time": "01:00 PM",
       "to_time": "02:00 PM"
     },
     {
       "day": "Tuesday",
-      "subject": "Sociology",
-      "faculty": "Ms. Chatterjee",
+      "subject": "Dance",
+      "classRoom": "9 - B",
+      "faculty": "Mr. Khan",
       "from_time": "02:15 PM",
       "to_time": "03:15 PM"
     },
     {
       "day": "Tuesday",
-      "subject": "Music",
-      "faculty": "Ms. Fernandes",
+      "subject": "History",
+      "classRoom": "9 - C",
+      "faculty": "Mr. Khan",
       "from_time": "03:30 PM",
       "to_time": "04:30 PM"
     }

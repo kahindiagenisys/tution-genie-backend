@@ -1,43 +1,49 @@
 {
     "timetable": [
       {
-        "day": "Monday",
+        "day": "Saturday",
         "subject": "Mathematics",
         "faculty": "Mr. Sharma",
+        "classRoom": "9 - A",
         "from_time": "09:00 AM",
         "to_time": "10:00 AM"
       },
       {
-        "day": "Monday",
+        "day": "Saturday",
         "subject": "English",
         "faculty": "Ms. Patel",
+        "classRoom": "9 - A",
         "from_time": "10:15 AM",
         "to_time": "11:15 AM"
       },
       {
-        "day": "Monday",
+        "day": "Saturday",
         "subject": "Physics",
         "faculty": "Dr. Verma",
+        "classRoom": "9 - A",
         "from_time": "11:30 AM",
         "to_time": "12:30 PM"
       },
       {
-        "day": "Monday",
+        "day": "Saturday",
         "subject": "Chemistry",
         "faculty": "Mr. Khan",
+        "classRoom": "9 - A",
         "from_time": "01:00 PM",
         "to_time": "02:00 PM"
       },
       {
-        "day": "Monday",
+        "day": "Saturday",
         "subject": "History",
         "faculty": "Ms. D'Souza",
+        "classRoom": "9 - A",
         "from_time": "02:15 PM",
         "to_time": "03:15 PM"
       },
       {
-        "day": "Monday",
+        "day": "Saturday",
         "subject": "Computer Science",
+        "classRoom": "9 - A",
         "faculty": "Ms. Gupta",
         "from_time": "03:30 PM",
         "to_time": "04:30 PM"

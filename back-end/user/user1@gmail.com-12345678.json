@@ -1,0 +1,10 @@
+{
+    "user": {
+        "id":"1",
+        "name": "user1",
+        "password": "12345678",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjcyMjU2MDAsInVzZXIiOiJuZXdfdmFsaWRfdXNlciIsInJvbGUiOiJhdXRoZW50aWNhdGVkIn0.t_KsJeekp361k8HRKycNfjqt5GfXPZB6Hxc1EJeDffQ",
+        "email": "user1@example.com",
+        "phone": "+14475299675"
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "events": [
+        {
+            "date": "2025-03-26T09:00:00Z",
+            "name": "Math Olympiad",
+            "remark": "Participation mandatory for Grade 10"
+        },
+        {
+            "date": "2025-04-02T11:15:00Z",
+            "name": "Health Checkup Camp",
+            "remark": "Bring previous medical reports"
+        },
+        {
+            "date": "2025-04-18T08:45:00Z",
+            "name": "Music Competition",
+            "remark": "Solo and group entries allowed"
+        },
+        {
+            "date": "2025-05-09T10:00:00Z",
+            "name": "Environmental Workshop",
+            "remark": "Bring reusable items"
+        },
+        {
+            "date": "2025-05-25T09:30:00Z",
+            "name": "Drama Rehearsal",
+            "remark": "Practice in Main Hall"
+        },
+        {
+            "date": "2025-06-12T12:00:00Z",
+            "name": "Career Counselling Session",
+            "remark": "Guest Speaker: Dr. Neha Patel"
+        },
+        {
+            "date": "2025-06-28T09:00:00Z",
+            "name": "Community Service Day",
+            "remark": "Venue: Local Park"
+        },
+        {
+            "date": "2025-07-18T10:30:00Z",
+            "name": "Robotics Exhibition",
+            "remark": "Register your project by July 10"
+        },
+        {
+            "date": "2025-08-07T08:00:00Z",
+            "name": "Teachers' Appreciation Day",
+            "remark": "Special Assembly at 8 AM"
+        },
+        {
+            "date": "2025-08-20T11:45:00Z",
+            "name": "Alumni Meet",
+            "remark": "Open to all former students"
+        }
+    ]
+}
