@@ -5,48 +5,48 @@
       "subject": "Mathematics",
       "classRoom": "10 - A",
       "faculty": "Mr. Khan",
-      "from_time": "09:00 AM",
-      "to_time": "10:00 AM"
+      "from_time": "09:00",
+      "to_time": "10:00"
     },
     {
       "day": "Friday",
       "subject": "English",
       "classRoom": "10 - B",
       "faculty": "Mr. Khan",
-      "from_time": "10:15 AM",
-      "to_time": "11:15 AM"
+      "from_time": "10:15",
+      "to_time": "11:15"
     },
     {
       "day": "Friday",
       "subject": "Physics",
       "classRoom": "10 - A",
       "faculty": "Mr. Khan",
-      "from_time": "11:30 AM",
-      "to_time": "12:30 PM"
+      "from_time": "11:30",
+      "to_time": "12:30"
     },
     {
       "day": "Friday",
       "subject": "Chemistry",
       "classRoom": "10 - B",
       "faculty": "Mr. Khan",
-      "from_time": "01:00 PM",
-      "to_time": "02:00 PM"
+      "from_time": "13:00",
+      "to_time": "14:00"
     },
     {
       "day": "Friday",
       "subject": "History",
       "classRoom": "10 - C",
       "faculty": "Mr. Khan",
-      "from_time": "02:15 PM",
-      "to_time": "03:15 PM"
+      "from_time": "14:15",
+      "to_time": "15:15"
     },
     {
       "day": "Friday",
       "subject": "Computer Science",
       "classRoom": "10 - A",
       "faculty": "Mr. Khan",
-      "from_time": "03:30 PM",
-      "to_time": "04:30 PM"
+      "from_time": "16:30",
+      "to_time": "17:30"
     }
   ]
 }
